@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Page Title</title>
+        <title>The woodcutter game</title>
     <!-- made by Yashas the monkey coder(ambassador yashas) -->
     <style>
         <!-- i suck at animation😂 -->
